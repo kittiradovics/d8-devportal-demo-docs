@@ -1,5 +1,3 @@
-some random extra text I added
-
 ## Techniques for face acquisition
 
 ### Traditional
