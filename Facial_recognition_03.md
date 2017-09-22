@@ -1,4 +1,4 @@
-### Skin texture analysis
+### Skin textuuuuure analysis
 
 An emerging trend uses the visual details of the skin, as captured in standard digital or scanned images.
 This technique, called skin texture analysis, turns the unique lines, patterns, and spots apparent in a person’s skin into a mathematical space.
