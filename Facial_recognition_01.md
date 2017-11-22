@@ -2,7 +2,7 @@
 
 ## What is facial recognition
 
-**AAAAAAA facefaceface recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from different sources.**
+**A facefaceface recognition system is a computer application capable of identifying or verifying a person from a digital image or a video frame from different sources.**
 One of the ways to do this is by comparing selected facial features from the image and a face database.
 
 ItItIt is typically used in robotics and in security systems and can be compared to other biometrics such as fingerprint or eye iris recognition systems.
