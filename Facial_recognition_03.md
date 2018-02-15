@@ -6,6 +6,9 @@ This technique, called skin texture analysis, turns the unique lines, patterns, 
 An emerging trend uses the visual details of the skin, as captured in standard digital or scanned images.
 This technique, called skin texture analysis, turns the unique lines, patterns, and spots apparent in a person’s skin into a mathematical space.
 
+An emerging trend uses the visual details of the skin, as captured in standard digital or scanned images.
+This technique, called skin texture analysis, turns the unique lines, patterns, and spots apparent in a person’s skin into a mathematical space.
+
 Tests have shown that with the addition of skin texture analysis, performance in recognizing faces can increase 20 to 25 percent.
 
 ### Thermal cameras
