@@ -6,6 +6,8 @@ A face recognition system is a computer application capable of identifying or ve
 
 One of the ways to do this is by comparing selected facial features from the image and a face database.
 
+One of the ways to do this is by comparing selected facial features from the image and a face database.
+
 It is typically used in robotics and in security systems and can be compared to other biometrics such as fingerprint or eye iris recognition systems.
 It has also become popular as a commercial identification and marketing tool.
 
