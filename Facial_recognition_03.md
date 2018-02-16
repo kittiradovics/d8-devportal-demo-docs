@@ -6,6 +6,9 @@ This technique, called skin texture analysis, turns the unique lines, patterns, 
 Tests have shown that with the addition of skin texture analysis, performance in recognizing faces can increase 20 to 25 
 percent.
 
+Tests have shown that with the addition of skin texture analysis, performance in recognizing faces can increase 20 to 25 
+percent.
+
 ### Thermal cameras
 
 A different form of taking input data for face recognition is by using thermal cameras, by this procedure the cameras will only detect the shape of the head and it will ignore the subject accessories such as glasses, hats, or make up.
