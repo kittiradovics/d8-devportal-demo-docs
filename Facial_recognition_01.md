@@ -1,4 +1,4 @@
-# How facial recognition works (edited)
+# How facial recognition works
 
 ## What is facial recognition
 
